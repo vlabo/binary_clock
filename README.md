@@ -2,6 +2,6 @@
 Binary clock with arduino
 
 
-Needed libraries:
-https://github.com/vlabo/binary_clock.git
-http://fastled.io/
+Needed libraries:<br />
+https://github.com/vlabo/binary_clock.git<br />
+http://fastled.io/<br />
