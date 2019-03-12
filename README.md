@@ -2,6 +2,6 @@
 Binary clock with arduino
 
 
-Needed libraries:<br />
-https://playground.arduino.cc/Code/Time<br />
-http://fastled.io/<br />
+Dependencies:<br />
+[Arduino Time library](https://playground.arduino.cc/Code/Time)<br />
+[FastLED](http://fastled.io/)<br />
